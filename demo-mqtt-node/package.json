@@ -1,0 +1,15 @@
+{
+  "name": "demo-mqtt-node",
+  "version": "1.0.0",
+  "description": "demonstration mqtt sur node",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
